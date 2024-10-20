@@ -1,0 +1,4 @@
+﻿  Exeercise.cpp
+C:\Users\MKABOHASHA\source\repos\Exeercise\Exeercise\Exeercise.cpp(175,107): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MKABOHASHA\source\repos\Exeercise\Exeercise\Exeercise.cpp(177,115): warning C4305: 'argument': truncation from 'double' to 'float'
+  Exeercise.vcxproj -> C:\Users\MKABOHASHA\source\repos\Exeercise\x64\Debug\Exeercise.exe
